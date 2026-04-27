@@ -26,7 +26,7 @@ Perfect for writers, educators, or anyone curious about how difficult their writ
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/readability.git
+git clone https://github.com/kabincs9/readability.git
 cd readability
 
 # Compile
